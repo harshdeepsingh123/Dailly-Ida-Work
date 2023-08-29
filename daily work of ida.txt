@@ -1,0 +1,8 @@
+1. data : unorganized information
+2. dataBase : A platform where we store the data .
+3. ER Diagram : diagram for the relationship between different tables .
+4. normalization: differentiate one table into multiple tables to decrease data redundancy.
+5. denormalization: again change multiple tables to single table .i.e reverse of normalization.
+6. case study on er diagram : product , category , salesperson , location make tables of these
+7. case study on normalization : product , category , salesperson , location make tables and normalize the order table .
+8. dimension modelling : learned about fact table , star schema and snow flake schema.
