@@ -1,0 +1,28 @@
+Batch processing : neft transactions takes batches of time to process. In shell point of you we will take data and make transformations and make new data by writing business logic.
+Stream processsing : Immediate upi payment is a example of stream processing.
+parallel processing : when you install multiple machines to complete work early as compared to the estimated time given by the client .
+Characteristics of Big data : Velocity , volume , verascity, variety.
+
+DWH 
+   1. Store data as Object
+	2. Structured Data
+	3.  Dimension modelling.
+	4. Fixed schema 
+	5. ACID properties.
+	
+Data Lake 
+	Whatever data you want to store you can store .
+	Flexible schema
+	No ACID properties
+
+Lake house 
+	Having advantages of both data warehouse and data lake.
+	
+Azure fundamentals
+	Capex: Capital expenditure, infrastructure .
+	Opex : only pay for operations . Only pay when needed.
+	
+
+ARM: management architechture.
+Resource : services that you get from azure.
+Resource groups : Logical container 
