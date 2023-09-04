@@ -1,0 +1,21 @@
+* Azure storage overview
+* Storage Accounts
+	- Data in an Azure Storage account is always replicated three times in the primary region
+* Redundancy
+	- Locally Redundant Storage
+	- Geo redundant storafe
+	- Zone redundant storage
+	- Geo-zone redundant storage
+* Service Level Aggrement
+* Cross tenant replication
+* Access tiers
+	- Hot
+	- Cool
+* Azure Data Lake Service Gen2
+* Azure file sharing
+	- creating vm and mounting drive
+* Tables
+* Queues
+* Azure pricing calculator
+* Azure Total cost of ownership
+* Creating static website
